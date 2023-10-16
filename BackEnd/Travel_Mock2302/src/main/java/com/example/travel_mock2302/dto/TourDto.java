@@ -14,4 +14,5 @@ public class TourDto {
     private int numberOfPassengers;
 
     private String description;
+    private String mota;
 }
